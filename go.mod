@@ -12,11 +12,9 @@ require (
 	github.com/iopred/comicgen v0.0.0-20201007025231-1d7f3d63a039
 	github.com/lithammer/fuzzysearch v1.1.3
 	github.com/nlopes/slack v0.6.0
-	golang.org/x/crypto v0.0.0-20220128200615-198e4374d7ed // indirect
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
-	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27 // indirect
 	gonum.org/v1/netlib v0.0.0-20210927171344-7274ea1d1842 // indirect
 	gonum.org/v1/plot v0.10.0
 	google.golang.org/api v0.66.0
